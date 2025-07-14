@@ -1,4 +1,4 @@
-
+Class Borrow {
   final String id;
   final String bookId;
   final String bookTitle;
